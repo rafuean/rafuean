@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @rafuean
-- 👀 I’m interested in software development.
-- 🌱 I’m currently learning anything I can not use in my job.
-- 📫 How to reach me: rafuean@gmail.com
+
